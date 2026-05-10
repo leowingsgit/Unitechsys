@@ -1,0 +1,13 @@
+{
+  "name": "unitechsys-worker-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Cloudflare Workers website for UNI Technology Systems Pte Ltd.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.15.2"
+  }
+}
