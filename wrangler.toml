@@ -1,8 +1,10 @@
 name = "unitechsys"
+main = "src/index.js"
 compatibility_date = "2026-05-10"
 
 [assets]
 directory = "./site"
+binding = "ASSETS"
 not_found_handling = "404-page"
 
 [vars]
